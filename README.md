@@ -1,1 +1,1 @@
-# odin-recipes
+﻿This is the beginning of my first README file, following the curriculum of The Odin Project. I am not exactly sure what I should be putting here, but that is ok. We will update this file as we progress, and see where the future of programming takes me. Esketit. 
